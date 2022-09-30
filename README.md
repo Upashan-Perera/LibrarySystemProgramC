@@ -1,5 +1,5 @@
 # LibrarySystemProgramC
-A system for a library using C language
+A system for a book library using C language
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
