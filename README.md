@@ -16,13 +16,12 @@ A system for a library using C language
  
  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
- 
- Open a file (database) and read/overright/delete and then update/save
- Storing/Updating/Print data in queue/stack linked lists 
- 
 
 Theories used -: Advanced C language concepts, queue Linked Lists, Stack Linked Lists, file reading/write/delete/update
+                 Open a file (database) and read/overright/delete and then update/save
+                 Storing/Updating/Print data in queue/stack linked lists 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 In depth Description -: 
 
