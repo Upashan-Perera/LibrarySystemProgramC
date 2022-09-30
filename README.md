@@ -1,5 +1,7 @@
 # LibrarySystemProgramC
 A system for a library using C language
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
  Functions -:
  
@@ -12,12 +14,15 @@ A system for a library using C language
  Updating the book database
  Updating the available book list database
  
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
  
  Open a file (database) and read/overright/delete and then update/save
  Storing/Updating/Print data in queue/stack linked lists 
  
 
 Theories used -: Advanced C language concepts, queue Linked Lists, Stack Linked Lists, file reading/write/delete/update
+
 
 In depth Description -: 
 
