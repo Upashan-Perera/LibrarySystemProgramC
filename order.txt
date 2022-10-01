@@ -1,9 +1,0 @@
-1002 101 Harry Potter and the Goblet of Fire
-1003 102 A Brief History of Time
-1004 104 Sapiens: A Brief History of Humankind
-1006 105 Shuggie Bain
-1007 108 A Brief History of Seven Killings
-1008 106 To kill a Mockingbird
-1009 103 The Count of Monte Cristo
-1010 100 David Copperfield
-1011 107 The Scarlet Letter
