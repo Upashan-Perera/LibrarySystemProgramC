@@ -6,19 +6,28 @@ A system for a book library using C language
  Functions -:
  
  Print the whole book database
+ 
  Add a new book to the system
+ 
  Retrieve and print the first book hold request
+ 
  Retrieve and print all the book hold requests
+ 
  Processing book hold requests and storing all the processed request in another list
+ 
  Undo a processed request
+ 
  Updating the book database
+ 
  Updating the available book list database
  
  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 
 Theories used -: Advanced C language concepts, queue Linked Lists, Stack Linked Lists, file reading/write/delete/update
+
                  Open a file (database) and read/overright/delete and then update/save
+                 
                  Storing/Updating/Print data in queue/stack linked lists 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
